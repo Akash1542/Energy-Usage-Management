@@ -1,0 +1,32 @@
+Project Title: Energy Usage Management and Forecasting
+Course Number: IST 687
+Course Title: Introduction to Data Science
+
+Description:
+This project focuses on analyzing and forecasting energy consumption patterns to enhance grid management and prepare for future energy demands.
+Utilizing R and Shiny, the project encompasses data loading, exploratory data analysis (EDA), feature engineering, modeling, and the development of an interactive dashboard for stakeholders.
+
+Contents:
+- 1 - Data Load.Rmd: R Markdown file for data loading and initial preprocessing.
+- 2 - Exploratory Data Analysis.rmd: R Markdown file conducting EDA to uncover patterns and anomalies.
+- 2 - Exploratory Data Analysis.docx: Document summarizing EDA findings.
+- 3 - Feature Engineering+Modelling.Rmd: R Markdown file detailing feature engineering and model development.
+- 3 - Feature-Engineering+Modelling.docx: Document summarizing modeling approaches and results.
+- Final Project Documentation.docx: Comprehensive report covering methodology, findings, and strategic recommendations.
+- IST687 M004 Group1 Presentation.pptx: Slide deck used for the project presentation.
+
+Software Requirements:
+- R (version 4.0 or higher)
+- RStudio
+- R packages: shiny, ggplot2, dplyr, tidyr, forecast, lubridate
+
+How to Open/Review:
+1. Open RStudio.
+2. Load the `.Rmd` files to review the code and analyses.
+3. Execute the R Markdown files to generate corresponding HTML reports.
+4. Open `.docx` files using Microsoft Word or compatible software to read summaries.
+5. Open the `.pptx` file using Microsoft PowerPoint or compatible software to view the presentation slides.
+
+Notes:
+- Ensure all required R packages are installed before running the R Markdown files.
+- The Shiny dashboard provides an interactive interface for exploring energy usage patterns and forecasting.
